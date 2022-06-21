@@ -6,8 +6,7 @@
 
 **architecture**
 
-![image-20220621231928730](/Users/adam/Library/Application Support/typora-user-images/image-20220621231928730.png)
-
+![architecture](architecture.png)
 
 
 **Usage**
