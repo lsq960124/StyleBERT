@@ -1301,6 +1301,6 @@ class BertMultiModel(nn.Module):
         
         prob = self.fc(cat_compose)
         
-        return prob, speench_info, text_info
+        return prob
 
 
